@@ -5,5 +5,6 @@ float fadd(float a, float b);
 float fsub(float a, float b);
 float fmul(float a, float b);
 float fdiv(float a, float b);
+float fsquare(float a);
 
 #endif //FLIB_H

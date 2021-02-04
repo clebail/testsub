@@ -15,3 +15,7 @@ float fmul(float a, float b) {
 float fdiv(float a, float b) {
     return a/b;
 }
+
+float fsquare(float a) {
+    return a*a;
+}
