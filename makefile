@@ -1,7 +1,7 @@
 CC=gcc
-CFLGAS=-fPIC -wall
+CFLAGS=-fPIC -Wall
 LDFLAGS=-shared
-ALL=testlib.so
+ALL=libtest.so
 
 all: $(ALL)
 
